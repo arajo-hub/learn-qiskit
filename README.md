@@ -9,5 +9,6 @@ such as **superposition**, **entanglement**, and simple quantum circuits.
 ```bash
 📦learn-qiskit
  ┣ 📜README.md
+ ┣ 📜qiskit_entanglement_example.ipynb # 큐비트 2개로 양자얽힘 실습
  ┗ 📜qiskit_superposition_example.ipynb # 큐비트 1개일 때, 큐비트 2개일 때 양자중첩 실습
 ```
