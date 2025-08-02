@@ -10,5 +10,6 @@ such as **superposition**, **entanglement**, and simple quantum circuits.
 📦learn-qiskit
  ┣ 📜README.md
  ┣ 📜qiskit_entanglement_example.ipynb # 큐비트 2개로 양자얽힘 실습
- ┗ 📜qiskit_superposition_example.ipynb # 큐비트 1개일 때, 큐비트 2개일 때 양자중첩 실습
+ ┣ 📜qiskit_superposition_example.ipynb # 큐비트 1개일 때, 큐비트 2개일 때 양자중첩 실습
+ ┗ 📜quantum_half_adder.ipynb # 두 큐비트의 합(sum)과 올림(carry)을 계산하는 양자 회로
 ```
